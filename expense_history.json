@@ -1,0 +1,47 @@
+[
+  {
+    "food": 1000.0,
+    "transport": 200.0,
+    "shopping": 800.0
+  },
+  {
+    "food": 1000.0,
+    "transport": 200.0,
+    "shopping": 8000.0
+  },
+  {
+    "food": 800.0,
+    "transport": 100.0,
+    "shopping": 4000.0
+  },
+  {
+    "food": 3000.0,
+    "transport": 220.0,
+    "shopping": 800.0
+  },
+  {
+    "food": 9000.0,
+    "transport": 10.0,
+    "shopping": 50.0
+  },
+  {
+    "food": 300.0,
+    "transport": 100.0,
+    "shopping": 500.0
+  },
+  {
+    "food": 300.0,
+    "transport": 100.0,
+    "shopping": 5000.0
+  },
+  {
+    "food": 2000.0,
+    "transport": 200.0,
+    "shopping": 4500.0
+  },
+  {
+    "food": 3400.0,
+    "transport": 200.0,
+    "shopping": 4000.0
+  }
+]
